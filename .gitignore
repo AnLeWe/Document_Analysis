@@ -1,5 +1,8 @@
 docana_env/
+doc_venv/
 *.pyc
 __pycache__/
 
+.DS_Store
+.DS_Storedoc_venv/
 .DS_Store
